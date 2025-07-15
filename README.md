@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # Budget-Planner
+=======
+>>>>>>> de455f0 (Initial commit)
 
 # ![budget(2)](https://github.com/agrSaket/Budget-Planner/assets/134057654/dc52a02d-881e-42d0-a311-779ee2d2fd8e) Budget Buddy
 
